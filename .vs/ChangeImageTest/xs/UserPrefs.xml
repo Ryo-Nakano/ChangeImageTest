@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{662CD487-D8A4-8E83-4B0C-06B0F0A909A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeImageTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeImageTest.cs" Line="34" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ChangeImageTest PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

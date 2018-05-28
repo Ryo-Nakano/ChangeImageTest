@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45b2c9dad2d00472ca630f84ae4eb745
+timeCreated: 1527517238
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - unity: {instanceID: 0}
+  - c: {instanceID: 0}
+  - mario: {instanceID: 0}
+  - image: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
